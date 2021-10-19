@@ -1,0 +1,6 @@
+SO2：temp_2m、temp_0、humi、w_speed、w_dir、rain、high、CBFS、GRTL
+NO2：temp_2m、temp_0、humi、w_speed、w_dir、rain、high、CBFS
+PM10:temp_2m、temp_0、w_speed、rain、high、GRTL、CBFS
+PM2_5：temp_2m、temp_0、humi、w_speed、w_dir、rain、CBFS
+O3：temp_2m、temp_0、w_speed、rain、high、GRTL、CBFS
+CO：temp_2m、temp_0、humi、w_speed、rain、high
